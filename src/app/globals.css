@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+background: black;
+  margin: 5px;
+  padding: 0;
+}
+
+.home-main-container {
+  height: 87vh;
+  overflow: hidden;
+}
+
+/* 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background: black;
+    margin: 30px;
+    padding: 0;
+}
+
+
+
+.nav-container {
+    width: 98%;
+    margin: 5px;
+    z-index: 5;
+   
+}
+
+.link {
+    font-size: 1.5em;
+    font-family: monospace;
+    color: white;
+    margin-right: 50px;
+}
+
+
+.button-88 {
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: white;
+  background: #ad5389;
+  background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #14a73e98;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-88:hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #14a73e98;
+}
+
+.button-88:active {
+  box-shadow: 0 0.3em 1em -0.5em #14a73e98;
+}
+
+.social-in-layout-fixed {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  margin-top: 10px;
+  margin-left: 2%;
+}
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  cursor: pointer;
+  margin-left: 1150px;
+  gap: 15px;
+}
+
+
+.home-container {
+  width: 80%;
+  margin-left: 50px;
+}
+
+
+.cart-game {
+  margin-top: 350px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -15px;
+}
+
+.heading-p {
+  margin-top: 120px;
+}
+
+.heading-home {
+    font-family: monospace;
+    font-size: 8em;
+    font-weight: 700;
+    color: greenyellow;
+    margin-top: 25%;
+}
+
+.home-description {
+    justify-content: start;
+    font-family: monospace;
+    color: white;
+    letter-spacing: 0.1cap;
+    font-size: 1.5rem;
+    margin-top: -22px;
+}
+
+
+.body-bg-container {
+  width: 70px;
+  height: auto;
+}
+
+.commerce-home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 97%;
+  margin-left: 40px;
+}
+ */
